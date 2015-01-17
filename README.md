@@ -1,0 +1,1 @@
+# jasnosc-temperatura-odleglosc
